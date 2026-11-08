@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 96" width="1000" height="96" role="img" aria-label="My journey">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0614"/><stop offset=".5" stop-color="#1a1033"/><stop offset="1" stop-color="#0b0614"/></linearGradient>
+<linearGradient id="grad" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#c4b5fd"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
+<linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7c3aed" stop-opacity="0"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a78bfa" stroke-opacity=".08"/></pattern>
+<filter id="softglow"><feGaussianBlur stdDeviation="10" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="b-g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7fa4ff"/><stop offset=".5" stop-color="#3b6bff"/><stop offset="1" stop-color="#2a55e5"/></linearGradient>
+<linearGradient id="b-b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5b8cff"/><stop offset="1" stop-color="#2f5be8"/></linearGradient>
+<filter id="b-glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="1.1" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<style>
+.zb-shadow{fill:#000;opacity:.18;transform-origin:32px 58.5px;animation:zb-shadow 3.2s ease-in-out infinite}
+.zb-fig{transform-origin:32px 32px;animation:zb-bob 3.2s ease-in-out infinite}
+@keyframes zb-bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-1.6px)}}
+@keyframes zb-shadow{0%,100%{transform:scaleX(1);opacity:.18}50%{transform:scaleX(.86);opacity:.1}}
+.zb-eyes{transform-origin:32px 22.5px;animation:zb-blink 4.6s ease-in-out infinite}
+@keyframes zb-blink{0%,93%,100%{transform:scaleY(1)}96%{transform:scaleY(.12)}}
+.zb-ant{transform-origin:32px 3.8px;animation:zb-pulse 2.2s ease-in-out infinite}
+.zb-light{transform-origin:32px 43.5px;animation:zb-pulse 2.2s ease-in-out .5s infinite}
+@keyframes zb-pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.55;transform:scale(.8)}}
+.zb-arm-l{transform-origin:21px 40.6px;transform:rotate(8deg)}
+.zb-arm-r{transform-origin:43px 40.6px;transform:rotate(-8deg)}
+.zb-finger{opacity:0}
+.zbot-idle .zb-arm-l{animation:zb-arm-l 3.2s ease-in-out infinite}
+.zbot-idle .zb-arm-r{animation:zb-arm-r 3.2s ease-in-out infinite}
+@keyframes zb-arm-l{0%,100%{transform:rotate(8deg)}50%{transform:rotate(16deg)}}
+@keyframes zb-arm-r{0%,100%{transform:rotate(-8deg)}50%{transform:rotate(-16deg)}}
+.zbot-wave .zb-arm-r{animation:zb-wave 1.4s ease-in-out infinite}
+@keyframes zb-wave{0%,100%{transform:rotate(-62deg)}50%{transform:rotate(-100deg)}}
+.zb-ring{fill:none;stroke:#3b6bff;stroke-width:1.4;opacity:0;transform-box:fill-box;transform-origin:center}
+.zbot-listening .zb-ring{animation:zb-ring 1.6s ease-out infinite}
+.zbot-listening .zb-ring-r{animation-delay:.3s;stroke:#6fe3ff}
+@keyframes zb-ring{0%{transform:scale(.5);opacity:.8}100%{transform:scale(1.5);opacity:0}}
+.zb-orbit{transform-origin:32px 21px;animation:zb-spin 2.4s linear infinite}
+.zb-orbit-2{animation-duration:3.4s;animation-direction:reverse}
+.zbot-thinking .zb-ant{animation-duration:.9s}
+.zbot-thinking .zb-face{animation:zb-look 2.4s ease-in-out infinite}
+@keyframes zb-look{0%,100%{transform:translate(0,0)}30%{transform:translate(1.6px,-.8px)}60%{transform:translate(-1.6px,-.8px)}}
+@keyframes zb-spin{to{transform:rotate(360deg)}}
+.zbot-building .zb-arm-r{transform:rotate(-40deg);animation:none}
+.zb-blk{transform-box:fill-box;transform-origin:center;animation:zb-pop 2.4s cubic-bezier(.22,1,.36,1) infinite}
+.zb-blk-2{animation-delay:.3s}.zb-blk-3{animation-delay:.6s}
+@keyframes zb-pop{0%{transform:translate(-10px,10px) scale(.2);opacity:0}25%,78%{transform:none;opacity:1}100%{transform:translateY(-4px);opacity:0}}
+.zb-badge{transform-box:fill-box;transform-origin:center;animation:zb-in .45s cubic-bezier(.22,1,.36,1) .6s both}
+.zbot-done .zb-arm-l{transform:rotate(38deg);animation:none}
+.zbot-done .zb-arm-r{transform:rotate(-38deg);animation:none}
+.zbot-done .zb-fig{animation:zb-bob 3.2s ease-in-out infinite, zb-hop .6s cubic-bezier(.22,1,.36,1) .4s 1}
+@keyframes zb-in{from{transform:scale(0);opacity:0}}
+@keyframes zb-hop{0%{transform:translateY(0)}40%{transform:translateY(-5px)}100%{transform:translateY(0)}}
+.zbot-pointing .zb-arm-r{animation:zb-point 1.6s ease-in-out infinite}
+.zbot-pointing .zb-finger{opacity:1}
+@keyframes zb-point{0%,100%{transform:rotate(-22deg) translate(2px,0)}50%{transform:rotate(-22deg) translate(5px,0)}}
+.zb-zzz path{animation:zb-z 2.4s ease-in-out infinite;opacity:0}
+.zb-zzz .z2{animation-delay:.8s}
+@keyframes zb-z{0%{opacity:0;transform:translate(0,4px)}30%,70%{opacity:1}100%{opacity:0;transform:translate(3px,-6px)}}
+.zbot-sleeping .zb-eyes{animation:none}
+.zbot-sleeping .zb-fig{animation-duration:5s}
+.zbot-sleeping .zb-ant,.zbot-sleeping .zb-light{animation:none;opacity:.35}
+.zbot-sleeping .zb-arm-l,.zbot-sleeping .zb-arm-r{animation:none}
+.zbot-sleeping .zb-head{transform-origin:32px 30px;transform:rotate(6deg)}
+
+.slide-l{animation:sl .9s cubic-bezier(.22,1,.36,1) both}@keyframes sl{from{opacity:0;transform:translateX(-70px)}}
+.slide-r{animation:sr .9s cubic-bezier(.22,1,.36,1) both}@keyframes sr{from{opacity:0;transform:translateX(70px)}}
+.bubble{animation:fade .5s ease .8s both}.title{animation:fade .7s ease .3s both}
+@keyframes fade{from{opacity:0;transform:translateY(6px)}}
+.line{stroke-dasharray:1000;animation:draw 1.6s ease .4s both}@keyframes draw{from{stroke-dashoffset:1000}}
+.shine{animation:shine 4s linear 1.2s infinite}@keyframes shine{from{transform:translateX(-1000px)}to{transform:translateX(1000px)}}
+</style>
+<rect width="1000" height="96" rx="16" fill="url(#bg)"/><rect width="1000" height="96" rx="16" fill="url(#grid)"/>
+<g class="slide-r"><g class="zbot zbot-idle" transform="translate(906,10) scale(1.125) translate(64,0) scale(-1,1)">
+<ellipse class="zb-shadow" cx="32" cy="58.5" rx="12" ry="2.4"/>
+<g class="zb-fig">
+<g class="zb-head-tilt"><line x1="32" y1="9.5" x2="32" y2="5" stroke="#5b8cff" stroke-width="2" stroke-linecap="round"/><circle class="zb-ant" cx="32" cy="3.8" r="2.6" fill="#6fe3ff" filter="url(#b-glow)"/></g>
+<rect class="zb-arm zb-arm-l" x="11" y="38" width="11" height="5.2" rx="2.6" fill="url(#b-b)"/>
+<g class="zb-arm zb-arm-r"><rect x="42" y="38" width="11" height="5.2" rx="2.6" fill="url(#b-b)"/><rect class="zb-finger" x="52" y="39.1" width="5" height="3" rx="1.5" fill="#5b8cff"/></g>
+
+<rect x="23" y="50.5" width="7.5" height="5" rx="2.5" fill="#2446c4"/><rect x="33.5" y="50.5" width="7.5" height="5" rx="2.5" fill="#2446c4"/>
+<rect x="21" y="36" width="22" height="16" rx="8" fill="url(#b-g)"/>
+<circle class="zb-light" cx="32" cy="43.5" r="2.6" fill="#6fe3ff" filter="url(#b-glow)"/>
+<g class="zb-head"><rect x="10" y="18" width="5" height="9" rx="2.5" fill="#2446c4"/><rect x="49" y="18" width="5" height="9" rx="2.5" fill="#2446c4"/>
+<rect x="14" y="9" width="36" height="26.5" rx="11" fill="url(#b-g)"/><rect x="19" y="14" width="26" height="16.5" rx="7" fill="#0b1020"/>
+<g class="zb-face"><g class="zb-eyes" fill="none" stroke="#6fe3ff" stroke-width="2.4" stroke-linecap="round" filter="url(#b-glow)"><path d="M23.5 22.5 q3.5 -4.5 7 0"/><path d="M33.5 22.5 q3.5 -4.5 7 0"/></g>
+<path d="M29.2 26.2 q2.8 2.2 5.6 0" fill="none" stroke="#6fe3ff" stroke-width="1.5" stroke-linecap="round" opacity=".9"/></g></g>
+</g></g><g class="bubble"><rect x="500" y="14" width="396" height="36" rx="12" fill="#1e1538" stroke="#7c3aed" stroke-opacity=".7"/><path d="M896 38 l8 7 l-8 1z" fill="#1e1538" stroke="#7c3aed" stroke-opacity=".7"/>
+<text x="514" y="37" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#e9e3ff">From a diploma in 2020 to AI full-stack in 2026</text></g></g>
+<text class="title" x="896" y="78" text-anchor="end" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="26" font-weight="800" fill="url(#grad)">🗺 My journey</text>
+<line class="line" x1="300" y1="90" x2="896" y2="90" stroke="#7c3aed" stroke-width="2" stroke-linecap="round" stroke-opacity=".8"/>
+<rect class="shine" x="0" y="89" width="1000" height="3" fill="url(#shine)"/>
+</svg>

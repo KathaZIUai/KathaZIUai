@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "profile-night-rainbow.svg",
+  "backgroundColor": "#0b1020",
+  "foregroundColor": "#c9d4ff",
+  "strongColor": "#6fe3ff",
+  "weakColor": "#2a355f",
+  "radarColor": "#3b6bff",
+  "growingAnimation": true,
+  "contribColors": ["#1a2550", "#2a4ad0", "#3b6bff", "#5b8cff", "#6fe3ff"]
+}

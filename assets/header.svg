@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Katha Pawale, AI Automation Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="0.55" stop-color="#121b45"/><stop offset="1" stop-color="#0b1020"/></linearGradient>
+    <linearGradient id="t" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3b6bff"/><stop offset="1" stop-color="#6fe3ff"/></linearGradient>
+    <linearGradient id="bot" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7fa4ff"/><stop offset="0.5" stop-color="#3b6bff"/><stop offset="1" stop-color="#2a55e5"/></linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#5b8cff" opacity="0.25"/></pattern>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#dots)"/>
+  <!-- network lines -->
+  <g stroke="#3b6bff" stroke-opacity="0.35" stroke-width="1" fill="none">
+    <path d="M60 250 L180 190 L320 230 L420 150 L560 200 L700 120 L840 180 L980 110 L1140 170"/>
+    <path d="M100 80 L240 120 L380 70 L520 110 L660 60 L820 100 L960 50 L1120 90"/>
+    <line x1="180" y1="190" x2="240" y2="120"/><line x1="420" y1="150" x2="380" y2="70"/><line x1="700" y1="120" x2="660" y2="60"/><line x1="980" y1="110" x2="960" y2="50"/>
+  </g>
+  <g fill="#6fe3ff">
+    <circle cx="180" cy="190" r="3"><animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="420" cy="150" r="3"><animate attributeName="opacity" values="1;0.3;1" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="120" r="3"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="980" cy="110" r="3"><animate attributeName="opacity" values="1;0.3;1" dur="3.8s" repeatCount="indefinite"/></circle>
+    <circle cx="380" cy="70" r="2.5"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="820" cy="100" r="2.5"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="3.2s" repeatCount="indefinite"/></circle>
+  </g>
+  <!-- travelling packets -->
+  <circle r="4" fill="#ffffff" filter="url(#glow)"><animateMotion dur="7s" repeatCount="indefinite" path="M60 250 L180 190 L320 230 L420 150 L560 200 L700 120 L840 180 L980 110 L1140 170"/></circle>
+  <circle r="3" fill="#6fe3ff" filter="url(#glow)"><animateMotion dur="9s" repeatCount="indefinite" path="M1120 90 L960 50 L820 100 L660 60 L520 110 L380 70 L240 120 L100 80"/></circle>
+  <!-- robot -->
+  <g transform="translate(96 92) scale(2.1)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -3; 0 0" dur="3.2s" repeatCount="indefinite"/>
+      <line x1="32" y1="9.5" x2="32" y2="5" stroke="#5b8cff" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="32" cy="3.8" r="2.6" fill="#6fe3ff"><animate attributeName="opacity" values="1;0.5;1" dur="2.2s" repeatCount="indefinite"/></circle>
+      <rect x="11" y="38" width="11" height="5.2" rx="2.6" fill="#5b8cff" transform="rotate(8 21 40.6)"/>
+      <g transform="rotate(-62 43 40.6)"><rect x="42" y="38" width="11" height="5.2" rx="2.6" fill="#5b8cff"><animateTransform attributeName="transform" type="rotate" values="0 43 40.6; -35 43 40.6; 0 43 40.6" dur="1.4s" repeatCount="indefinite"/></rect></g>
+      <rect x="23" y="50.5" width="7.5" height="5" rx="2.5" fill="#2446c4"/><rect x="33.5" y="50.5" width="7.5" height="5" rx="2.5" fill="#2446c4"/>
+      <rect x="21" y="36" width="22" height="16" rx="8" fill="url(#bot)"/><circle cx="32" cy="43.5" r="2.6" fill="#6fe3ff"/>
+      <rect x="10" y="18" width="5" height="9" rx="2.5" fill="#2446c4"/><rect x="49" y="18" width="5" height="9" rx="2.5" fill="#2446c4"/>
+      <rect x="14" y="9" width="36" height="26.5" rx="11" fill="url(#bot)"/><rect x="19" y="14" width="26" height="16.5" rx="7" fill="#0b1020"/>
+      <g fill="none" stroke="#6fe3ff" stroke-width="2.4" stroke-linecap="round"><path d="M23.5 22.5q3.5-4.5 7 0"/><path d="M33.5 22.5q3.5-4.5 7 0"/></g>
+      <path d="M29.2 26.2q2.8 2.2 5.6 0" fill="none" stroke="#6fe3ff" stroke-width="1.5" stroke-linecap="round"/>
+    </g>
+  </g>
+  <!-- text -->
+  <text x="300" y="150" font-family="Manrope, Inter, Segoe UI, system-ui, sans-serif" font-weight="800" font-size="74" letter-spacing="-2" fill="#ffffff">Katha Pawale</text>
+  <text x="302" y="200" font-family="Inter, Segoe UI, system-ui, sans-serif" font-weight="600" font-size="26" fill="url(#t)">AI Automation Developer</text>
+  <text x="302" y="240" font-family="Inter, Segoe UI, system-ui, sans-serif" font-size="18" fill="#a9b6e8">Agents · Automations · AI tools · Efficient automation, made easy</text>
+  <g font-family="ui-monospace, Menlo, monospace" font-size="13" fill="#6fe3ff" opacity="0.85">
+    <text x="302" y="282">trigger → rules → AI decides → approval gate → action → log</text>
+  </g>
+</svg>

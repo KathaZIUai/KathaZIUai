@@ -4,11 +4,11 @@
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-0b1020?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/KathaPawale)
+[![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-0b1020?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/KathaZIUai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/REPLACE-ME)
 [![Email](https://img.shields.io/badge/Email-say_hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:squadai90@gmail.com)
 [![ZIU AI](https://img.shields.io/badge/ZIU_AI-what_I'm_building-3b6bff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ziuai)
-![Profile views](https://komarev.com/ghpvc/?username=KathaPawale&style=for-the-badge&color=6fe3ff&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=KathaZIUai&style=for-the-badge&color=6fe3ff&label=PROFILE+VIEWS)
 
 </div>
 
@@ -31,11 +31,12 @@
 |---|---|---|---|
 | 🧾 | **GST Reconciliation** | Reconciles GSTR-2B against the purchase register, flags mismatches, produces a vendor-wise action list every month. Live. | LLM + rules, spreadsheets, accounting exports |
 | 📄 | **5471 Form** | Prepares IRS Form 5471 for foreign-corporation filings: schedule mapping, ownership tracking, validation before export. | LLM document pipeline |
-| 🎯 | **Lead Mining** | Builds a qualified lead pipeline from public company data: enrich, score, route to the right owner. | AI agent, CRM APIs |
-| 🧑‍💼 | **Talent Mining** | Sources and shortlists candidates from public profiles and inbound applications, scored against the role brief. | AI agent |
-| 🗂️ | **UG Task Manager** | Task and workflow manager with a nine-stage delivery pipeline and a single client view of progress. | Web app |
+| 🎯 | [**Lead Mining**](https://github.com/ziuai/candidate-mine) | Builds a qualified lead pipeline from public company data: enrich, score, route to the right owner. | AI agent, CRM APIs |
+| 🧑‍💼 | [**Talent Mining**](https://github.com/ziuai/Talentmine) | Sources and shortlists candidates from public profiles and inbound applications, scored against the role brief. | AI agent |
+| 🗂️ | [**UG Task Manager**](https://github.com/ziuai/taskflow-management) | Task and workflow manager with a nine-stage delivery pipeline and a single client view of progress. | Web app |
+| 🎓 | [**ZIU Learn**](https://github.com/KathaZIUai/ziu-learn) | Internal learning platform: course library, structured learning paths, progress tracking and completion certificates. | Web app |
 | 🤖 | **Dot, the ZIU AI assistant** | Site-wide robot mascot and chatbot: voice input, document attachments, streaming answers, page-aware actions. | Astro, TypeScript, Claude API |
-| 📊 | [**Unison Direct management report**](https://github.com/KathaPawale/unison-direct-management-report) | Upload a QuickBooks-style workbook, review a dashboard, edit values with impact analysis, export PDF or styled Excel. Optional AI explanations. | JavaScript, xlsx, jsPDF, Groq API |
+| 📊 | [**Unison Direct management report**](https://github.com/ziuai/unison-direct-management-report) | Upload a QuickBooks-style workbook, review a dashboard, edit values with impact analysis, export PDF or styled Excel. Optional AI explanations. | JavaScript, xlsx, jsPDF, Groq API |
 | 🧮 | [**GST calculator**](https://github.com/KathaPawale/-gst-calculator) | Browser-based GST calculator for India with invoice line items, totals and a print-ready preview. | HTML, CSS, JavaScript |
 | 🔐 | [**react-auth-app**](https://github.com/KathaPawale/react-auth-app) | Firebase Google sign-in with a protected dashboard route and 24-hour session handling. | React, Firebase |
 
@@ -82,12 +83,12 @@ Routine work passes through on its own. Anything unusual waits for a human click
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KathaPawale&show_icons=true&hide_border=true&bg_color=0b1020&title_color=6fe3ff&icon_color=3b6bff&text_color=c9d4ff&rank_icon=github" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KathaPawale&layout=compact&hide_border=true&bg_color=0b1020&title_color=6fe3ff&text_color=c9d4ff" alt="Top languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=KathaZIUai&show_icons=true&hide_border=true&bg_color=0b1020&title_color=6fe3ff&icon_color=3b6bff&text_color=c9d4ff&rank_icon=github" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KathaZIUai&layout=compact&hide_border=true&bg_color=0b1020&title_color=6fe3ff&text_color=c9d4ff" alt="Top languages" height="165" />
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com?user=KathaPawale&theme=tokyonight&hide_border=true&background=0b1020&ring=6fe3ff&fire=3b6bff&currStreakLabel=6fe3ff" alt="Contribution streak" height="165" />
+<img src="https://streak-stats.demolab.com?user=KathaZIUai&theme=tokyonight&hide_border=true&background=0b1020&ring=6fe3ff&fire=3b6bff&currStreakLabel=6fe3ff" alt="Contribution streak" height="165" />
 
 <br /><br />
 

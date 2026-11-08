@@ -1,142 +1,103 @@
-<!-- ===================== HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7c3aed&height=220&section=header&text=Katha%20Pawale&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=AI%20Full-Stack%20Developer%20%E2%80%A2%20AI%20Automation%20%E2%80%A2%20React%20%2F%20Next.js%20%E2%80%A2%20Node%20%2F%20Supabase&descAlignY=58&descSize=17&animation=fadeIn" />
+<img src="assets/header.svg" alt="Katha Pawale — AI Full-Stack Developer" width="100%" />
+
+<img src="assets/ticker.svg" alt="Skills ticker" width="100%" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/katha-pawale-3954302a7">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=720&lines=AI+Full-Stack+Developer;Building+AI+agents%2C+automations+%26+platforms+at+ZIU+AI;React+%2B+Next.js+%2B+Node.js+%2B+TypeScript;Supabase+%2B+REST+APIs+%2B+Auth+systems;Efficient+Automation+Made+Easy." />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/katha-pawale-3954302a7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:katha.pawale@unisonglobus.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ziuai"><img src="https://img.shields.io/badge/ZIU_AI-7C3AED?style=for-the-badge&logo=rocket&logoColor=white" /></a>
-  <a href="https://github.com/KathaPawale"><img src="https://img.shields.io/badge/Personal_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=KathaZIUai&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
+  <a href="https://www.linkedin.com/in/katha-pawale-3954302a7"><img src="https://img.shields.io/badge/LinkedIn-katha--pawale-7c3aed?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1033" /></a>
+  <a href="mailto:katha.pawale@unisonglobus.com"><img src="https://img.shields.io/badge/Email-katha.pawale%40unisonglobus.com-7c3aed?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1033" /></a>
+  <a href="https://github.com/KathaPawale"><img src="https://img.shields.io/badge/Personal-KathaPawale-7c3aed?style=flat-square&logo=github&logoColor=white&labelColor=1a1033" /></a>
+  <img src="https://komarev.com/ghpvc/?username=KathaZIUai&style=flat-square&color=7c3aed&label=visitors" />
 </p>
 
 <br/>
 
-<!-- ===================== 3D CONTRIBUTION SKYLINE ===================== -->
-<h2 align="center">🌆 My Contribution Skyline — in 3D</h2>
-
-<p align="center">
-  <img width="92%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
-</p>
+> **I build web apps end to end and then make them smarter.**
+> Hands-on with React, Next.js, Node.js, TypeScript and Supabase, shipping authentication systems, REST APIs, real-time data workflows and responsive UI. Today my focus is on folding AI, from LLM agents to automated workflows, into full-stack products that teams actually use.
 
 <br/>
 
-<!-- ===================== ABOUT ===================== -->
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-
-## 🧠 About Me
-
-```ts
-const katha = {
-  name:      "Katha Pawale",
-  role:      "AI Full-Stack Developer",
-  company:   "ZIU AI",
-  building:  "AI agents, automations and in-house platforms",
-  location:  "Vadodara, India",
-  education: "B.Tech Computer Engineering · BVM Engineering College",
-  layers:    ["frontend", "backend", "auth", "ai-automation"],
-  stack: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui", "Astro"],
-    backend:  ["Node.js", "Express", "Flask", "Laravel", "REST APIs"],
-    data:     ["Supabase (PostgreSQL)", "MongoDB", "MySQL"],
-    auth:     ["JWT", "Firebase Auth", "Google OAuth 2.0"],
-    ai:       ["Claude API", "GPT / LLM APIs", "AI agents", "Zapier · Make · n8n"],
-    deploy:   ["Vercel", "Railway", "GitHub Actions"],
-  },
-  philosophy:   "Ship the whole feature — UI, API, auth and data — then automate it.",
-  currentFocus: "Grounding LLMs in real documents, with a human approving what matters",
-  reachMe:      "katha.pawale@unisonglobus.com",
-};
-```
-
-<br clear="right"/>
-
----
-
-<!-- ===================== AI ===================== -->
-## 🤖 AI Automation & Full-Stack
+<img src="assets/sec-glance.svg" alt="At a glance" width="100%" />
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**🧩 What I build**
-- AI-powered tools, intelligent agents and automated workflows
-- LLM document pipelines for finance and compliance work
-- Lead and talent pipelines: enrich, score, route to the right owner
-- End-to-end web features: auth, REST APIs, real-time data, responsive UI
-- Chatbots with voice input, document attachments and streaming answers
+### 🛠 What I ship
+- Full-stack web apps, frontend to database
+- Auth: Google OAuth 2.0, Firebase, JWT sessions
+- REST APIs on Node.js / Express
+- Automated email and event-driven flows
+- Responsive, mobile-first interfaces
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**⚙️ How I ship it**
-- React / Next.js / Astro frontends with Tailwind CSS and shadcn/ui
-- Node.js / Express backends on Supabase, MongoDB or MySQL
-- Claude and GPT connected to APIs, apps and external services
-- Deployed on Vercel and Railway, automated with GitHub Actions
-- Start small, keep a person approving what matters, measure before claiming
+### 🤖 Where AI comes in
+- LLM agents and automation workflows
+- Claude and GPT wired into APIs and apps
+- Document pipelines for finance and compliance
+- Lead and talent scoring pipelines
+- Human approval gates for anything that matters
+
+</td>
+<td width="33%" valign="top">
+
+### 🎯 Right now
+- AI Full-Stack Developer at **ZIU AI**
+- Final year, B.Tech Computer Engineering
+- Leading the **CSI** team at BVM
+- Part of **SSIP 2.0** startup initiative
+- Open to interesting automation problems
 
 </td>
 </tr>
 </table>
 
-```text
- trigger ──▶ rules ──▶ AI reads & decides ──▶ approval gate ──▶ action ──▶ log
-                                  │                 │
-                      confidence score      a person decides anything
-                      on every answer       customer-facing or financial
+<br/>
+
+<img src="assets/sec-journey.svg" alt="My journey" width="100%" />
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#7c3aed','primaryTextColor':'#ffffff','primaryBorderColor':'#a78bfa','lineColor':'#a78bfa','textColor':'#c4b5fd','fontFamily':'Segoe UI, Helvetica, Arial, sans-serif','cScale0':'#4c1d95','cScale1':'#6d28d9','cScale2':'#7c3aed','cScale3':'#8b5cf6','cScale4':'#a78bfa','cScale5':'#3b82f6','cScale6':'#60a5fa','cScaleLabel0':'#ffffff','cScaleLabel1':'#ffffff','cScaleLabel2':'#ffffff','cScaleLabel3':'#ffffff','cScaleLabel4':'#1a1033','cScaleLabel5':'#ffffff','cScaleLabel6':'#1a1033'}}}%%
+timeline
+    title From diploma to AI full-stack
+    2020 : Diploma in Information Technology, Parul University (2020 – 2023)
+    2022 : Python Developer Intern, Arth Technology
+    2023 : B.Tech Computer Engineering, BVM Engineering College (2023 – 2026)
+         : CSI Team Head
+         : Frontend Developer Intern, Code Phonix
+    2024 : SSIP 2.0 Team Member
+    2025 : TaskFlow, React Auth App and GST Calculator shipped
+    2026 : Frontend Developer Intern, Impactful Pitch
+         : AI Full-Stack Developer, ZIU AI
 ```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/GPT_%2F_LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
-  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-</p>
+<br/>
 
----
+<img src="assets/sec-experience.svg" alt="Experience" width="100%" />
 
-<!-- ===================== STACK ===================== -->
-## 🛠 Tech Arsenal
+<table>
+<tr>
+<td width="25%" valign="top"><b>AI Full-Stack Developer</b><br/><sub>ZIU AI · Present</sub></td>
+<td valign="top">Building AI agents, automations and in-house platforms: GST reconciliation, IRS Form 5471 preparation, lead and talent mining pipelines, a task manager with a nine-stage delivery pipeline, an internal learning platform, and Dot, a site-wide chatbot with voice input and streaming answers. See <a href="https://github.com/ziuai">github.com/ziuai</a>.</td>
+</tr>
+<tr>
+<td valign="top"><b>Frontend Developer Intern</b><br/><sub>Impactful Pitch · Jan 2026 – Mar 2026</sub></td>
+<td valign="top">Developed and maintained live website features with React, Next.js and Tailwind CSS. Built <b>2 complete company websites</b> with modern UI/UX and full-stack Node.js, Express, MongoDB and Supabase-backed REST APIs.</td>
+</tr>
+<tr>
+<td valign="top"><b>Frontend Developer Intern</b><br/><sub>Code Phonix · Dec 2023 – Jan 2024</sub></td>
+<td valign="top">Designed and developed a personal portfolio resume and a responsive login form using HTML, CSS and React. Strengthened UI layout skills through hands-on implementation of web components.</td>
+</tr>
+<tr>
+<td valign="top"><b>Python Developer Intern</b><br/><sub>Arth Technology · Apr 2022 – May 2022</sub></td>
+<td valign="top">Worked with Python and PyCharm to find, connect and analyze datasets, gaining hands-on experience in data handling and scripting.</td>
+</tr>
+</table>
 
-<div align="center">
+<br/>
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css&theme=dark" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,vite&theme=dark" />
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,laravel,supabase,postgres,mongodb,mysql&theme=dark" />
-
-**Tools, Auth & Deployment**
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vercel,firebase,wordpress&theme=dark" />
-
-<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_OAuth_2.0-4285F4?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Gmail_SMTP-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/WPBakery-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-
-</div>
-
----
-
-<!-- ===================== ZIU AI ===================== -->
-## 🚀 What I'm Building at ZIU AI
+<img src="assets/sec-ziuai.svg" alt="What I'm building at ZIU AI" width="100%" />
 
 > AI agents, automations and in-house platforms · [github.com/ziuai](https://github.com/ziuai)
 
@@ -148,120 +109,114 @@ const katha = {
 | 🧑‍💼 | [**Talent Mining**](https://github.com/ziuai/Talentmine) | Sources and shortlists candidates from public profiles and inbound applications, scored against the role brief. | AI agent |
 | 🗂️ | [**UG Task Manager**](https://github.com/ziuai/taskflow-management) | Task and workflow manager with a nine-stage delivery pipeline and a single client view of progress. | Web app |
 | 🎓 | [**ZIU Learn**](https://github.com/KathaZIUai/ziu-learn) | Internal learning platform: course library, structured learning paths, progress tracking and completion certificates. | Web app |
-| 🤖 | **Dot, the ZIU AI assistant** | Site-wide robot mascot and chatbot: voice input, document attachments, streaming answers, page-aware actions. | Astro, TypeScript, Claude API |
+| 🤖 | **Dot, the ZIU AI assistant** | Site-wide robot mascot and chatbot: voice input, document attachments, streaming answers, page-aware actions. The same Dot you see on this page. | Astro, TypeScript, Claude API |
 | 📊 | [**Unison Direct management report**](https://github.com/ziuai/unison-direct-management-report) | Upload a QuickBooks-style workbook, review a dashboard, edit values with impact analysis, export PDF or styled Excel. Optional AI explanations. | JavaScript, xlsx, jsPDF, Groq API |
 
----
+<br/>
 
-<!-- ===================== PERSONAL PROJECTS ===================== -->
-## 💻 Personal Projects
+<img src="assets/sec-projects.svg" alt="Projects" width="100%" />
 
-| Project | What I built | Stack |
-|---|---|---|
-| 📋 **[TaskFlow](https://github.com/KathaPawale/taskflow)** — Collaborative Task Management Platform | Full-stack task manager with Google OAuth 2.0 sign-in, a Kanban board and automated email notifications for task events. Frontend on Vercel, backend on Railway. | TypeScript · React · Node.js · Google OAuth 2.0 · Gmail SMTP |
-| 🔐 **[React Auth App](https://github.com/KathaPawale/react-auth-app)** — Firebase Authentication with Protected Routes | Firebase Google OAuth with protected dashboard routes, 24-hour session management and automatic session restoration on refresh. Deployed on Vercel. | React · Firebase Auth · LocalStorage |
-| 🧮 **[GST Calculator](https://github.com/KathaPawale/-gst-calculator)** — Tax Computation Web Tool | Single-file web tool that calculates GST across multiple tax slabs with invoice line items, totals and a print-ready preview. Deployed on Vercel. | HTML · CSS · JavaScript |
+<table>
+<tr>
+<td width="33%" valign="top">
 
----
+### 📋 TaskFlow
+**Collaborative task management platform**
 
-<!-- ===================== EXPERIENCE ===================== -->
-## 💼 Experience
+Google OAuth 2.0 sign-in, a Kanban board and automated email notifications for every task event. Frontend on Vercel, backend on Railway.
 
-| Role | Company | When | Highlights |
-|---|---|---|---|
-| **AI Full-Stack Developer** | ZIU AI | Present | Building AI agents, automations and in-house platforms — see the projects above. |
-| **Frontend Developer Intern** | Impactful Pitch | Jan 2026 – Mar 2026 | Developed and maintained live website features with React, Next.js and Tailwind CSS. Built 2 complete company websites with full-stack Node.js, Express, MongoDB and Supabase-backed REST APIs. |
-| **Frontend Developer Intern** | Code Phonix | Dec 2023 – Jan 2024 | Designed and built a personal portfolio resume and a responsive login form with HTML, CSS and React. |
-| **Python Developer Intern** | Arth Technology | Apr 2022 – May 2022 | Worked with Python and PyCharm to find, connect and analyze datasets — hands-on data handling and scripting. |
+`TypeScript` `React` `Node.js` `Google OAuth 2.0` `Gmail SMTP`
 
----
+[**→ View repo**](https://github.com/KathaPawale/taskflow)
 
-<!-- ===================== STATS ===================== -->
-## 📊 GitHub Analytics
+</td>
+<td width="33%" valign="top">
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KathaZIUai&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KathaZIUai&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
-</p>
+### 🔐 React Auth App
+**Firebase authentication with protected routes**
 
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=KathaZIUai&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" alt="Contribution streak" />
-</p>
+Firebase Google OAuth, protected dashboard routes, 24-hour session management and automatic session restoration on refresh. Deployed on Vercel.
 
-<p align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=KathaZIUai&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=ffffff&area=true" />
-</p>
+`React` `Firebase Auth` `LocalStorage` `Vercel`
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KathaZIUai&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
-</p>
+[**→ View repo**](https://github.com/KathaPawale/react-auth-app)
 
----
+</td>
+<td width="33%" valign="top">
 
-<!-- ===================== SNAKE ===================== -->
-<h3 align="center">🐍 Watch my contributions get eaten</h3>
+### 🧮 GST Calculator
+**Tax computation web tool**
 
-<p align="center">
-  <img width="92%" src="https://raw.githubusercontent.com/KathaZIUai/KathaZIUai/output/snake.svg" alt="snake animation" />
-</p>
+Single-file tool that calculates GST across multiple tax slabs with instant results, invoice line items, totals and a print-ready preview. Deployed on Vercel.
 
----
+`HTML` `CSS` `JavaScript`
 
-<!-- ===================== EDUCATION & ACHIEVEMENTS ===================== -->
-## 🎓 Education & Achievements
+[**→ View repo**](https://github.com/KathaPawale/-gst-calculator)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="assets/sec-toolbox.svg" alt="Toolbox" width="100%" />
+
+| | |
+|---|---|
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-1a1033?style=flat-square&logo=javascript&logoColor=f7df1e) ![TypeScript](https://img.shields.io/badge/TypeScript-1a1033?style=flat-square&logo=typescript&logoColor=3178c6) ![Python](https://img.shields.io/badge/Python-1a1033?style=flat-square&logo=python&logoColor=3776ab) ![PHP](https://img.shields.io/badge/PHP-1a1033?style=flat-square&logo=php&logoColor=777bb4) ![HTML5](https://img.shields.io/badge/HTML5-1a1033?style=flat-square&logo=html5&logoColor=e34f26) ![CSS3](https://img.shields.io/badge/CSS3-1a1033?style=flat-square&logo=css3&logoColor=1572b6) |
+| **Frameworks** | ![React](https://img.shields.io/badge/React-1a1033?style=flat-square&logo=react&logoColor=61dafb) ![Next.js](https://img.shields.io/badge/Next.js-1a1033?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1a1033?style=flat-square&logo=tailwindcss&logoColor=06b6d4) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-1a1033?style=flat-square&logo=shadcnui&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-1a1033?style=flat-square&logo=nodedotjs&logoColor=339933) ![Express](https://img.shields.io/badge/Express.js-1a1033?style=flat-square&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-1a1033?style=flat-square&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-1a1033?style=flat-square&logo=laravel&logoColor=ff2d20) |
+| **Databases** | ![Supabase](https://img.shields.io/badge/Supabase_(PostgreSQL)-1a1033?style=flat-square&logo=supabase&logoColor=3ecf8e) ![MongoDB](https://img.shields.io/badge/MongoDB-1a1033?style=flat-square&logo=mongodb&logoColor=47a248) ![MySQL](https://img.shields.io/badge/MySQL-1a1033?style=flat-square&logo=mysql&logoColor=4479a1) |
+| **AI & automation** | ![Claude](https://img.shields.io/badge/Claude-1a1033?style=flat-square&logo=anthropic&logoColor=d97757) ![GPT](https://img.shields.io/badge/GPT_%2F_LLM_APIs-1a1033?style=flat-square&logo=openai&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-1a1033?style=flat-square&logo=zapier&logoColor=ff4a00) ![Make](https://img.shields.io/badge/Make-1a1033?style=flat-square&logo=make&logoColor=b16cff) ![n8n](https://img.shields.io/badge/n8n-1a1033?style=flat-square&logo=n8n&logoColor=ea4b71) |
+| **Tools & platforms** | ![Git](https://img.shields.io/badge/Git-1a1033?style=flat-square&logo=git&logoColor=f05032) ![GitHub](https://img.shields.io/badge/GitHub-1a1033?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-1a1033?style=flat-square&logo=vercel&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-1a1033?style=flat-square&logo=railway&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-1a1033?style=flat-square&logo=firebase&logoColor=ffca28) ![JWT](https://img.shields.io/badge/JWT-1a1033?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Google OAuth](https://img.shields.io/badge/Google_OAuth_2.0-1a1033?style=flat-square&logo=google&logoColor=4285f4) ![Gmail SMTP](https://img.shields.io/badge/Gmail_SMTP-1a1033?style=flat-square&logo=gmail&logoColor=ea4335) ![WordPress](https://img.shields.io/badge/WordPress_%2B_WPBakery-1a1033?style=flat-square&logo=wordpress&logoColor=21759b) ![VS Code](https://img.shields.io/badge/VS_Code-1a1033?style=flat-square&logo=visualstudiocode&logoColor=007acc) |
+
+<br/>
+
+<img src="assets/sec-flow.svg" alt="How I build an automation" width="100%" />
+
+<img src="assets/flow.svg" alt="Pipeline: trigger, rules, LLM decides with a confidence score, routine work goes straight to action, anything unusual waits for human approval, everything is logged and measured" width="100%" />
+
+Routine work passes through on its own. Anything unusual waits for a human click. Everything is logged, and results get claimed only once they have been measured.
+
+<br/>
+
+<img src="assets/sec-education.svg" alt="Education, awards and leadership" width="100%" />
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **🎓 Education**
-- **B.Tech in Computer Engineering** · 2023 – 2026
-  Birla Vishvakarma Mahavidyalaya (BVM) Engineering College, Anand, Gujarat
-- **Diploma in Information Technology** · 2020 – 2023
-  Parul University, Vadodara, Gujarat
+
+- **B.Tech, Computer Engineering** · 2023 – 2026<br/>Birla Vishvakarma Mahavidyalaya (BVM) Engineering College, Anand, Gujarat
+- **Diploma, Information Technology** · 2020 – 2023<br/>Parul University, Vadodara, Gujarat
 
 </td>
 <td width="50%" valign="top">
 
-**🏆 Achievements & Leadership**
-- 🥉 **Vadodara Hackathon 2.0** — 2nd Runner-up
-- 🥉 **Tech Expo** — 2nd Runner-up
-- 👩‍💻 **CSI Team Head**, BVM Engineering College · Oct 2023 – Present
-  Leading the Computer Society of India team in tech initiatives, workshops and events
-- 🚀 **SSIP 2.0 Team Member** · Sep 2024 – Present
-  Student Startup and Innovation Policy initiative
+**🏆 Awards & leadership**
+
+- 🥉 **Vadodara Hackathon 2.0** · 2nd Runner-up
+- 🥉 **Tech Expo** · 2nd Runner-up
+- 👩‍💻 **CSI Team Head**, BVM Engineering College · Oct 2023 – Present<br/>Leading the Computer Society of India team in tech initiatives, workshops and events
+- 🚀 **SSIP 2.0 Team Member** · Sep 2024 – Present<br/>Student Startup and Innovation Policy initiative
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<!-- ===================== PRINCIPLES ===================== -->
-## 🧭 How I Work
-
-<div align="center">
-
-| | |
-|---|---|
-| 🧩 **End-to-end ownership** | Frontend, backend, auth and data — I build the full feature, not a slice of it |
-| ⚡ **Automate the repeatable** | Routine work passes through on its own; anything unusual waits for a human click |
-| 📏 **Measure before claiming** | Everything is logged, and results are published only once they have been measured |
-| 🚢 **Ship, then iterate** | Deploy early on Vercel / Railway, learn from real usage, improve |
-
-</div>
-
----
-
-<!-- ===================== CONTACT ===================== -->
-<h2 align="center">📬 Let's build something</h2>
+<img src="assets/sec-activity.svg" alt="Activity" width="100%" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/katha-pawale-3954302a7"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge" /></a>
-  <a href="mailto:katha.pawale@unisonglobus.com"><img src="https://img.shields.io/badge/📧_katha.pawale@unisonglobus.com-EA4335?style=for-the-badge" /></a>
-  <a href="https://github.com/ziuai"><img src="https://img.shields.io/badge/🚀_ZIU_AI-7C3AED?style=for-the-badge" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KathaZIUai&theme=midnight-purple&hide_border=true&background=0b0614&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=8b5cf6" height="160" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KathaZIUai&layout=donut&hide_border=true&theme=midnight-purple&bg_color=0b0614&title_color=a78bfa&text_color=c4b5fd" height="160" alt="languages" />
 </p>
 
-<p align="center"><sub>Open to interesting automation problems. If a process in your business eats hours every week, I would like to hear about it.</sub></p>
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="90%" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:302b63,100:0f0c29&height=140&section=footer" />
+<br/>
+
+<img src="assets/footer.svg" alt="Let's build something useful — katha.pawale@unisonglobus.com" width="100%" />

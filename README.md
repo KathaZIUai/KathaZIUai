@@ -4,9 +4,9 @@
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-0b1020?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/KathaZIUai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/REPLACE-ME)
-[![Email](https://img.shields.io/badge/Email-say_hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:squadai90@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kathaziuai.github.io-0b1020?style=for-the-badge&logo=githubpages&logoColor=white)](https://kathaziuai.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katha-pawale/)
+[![Email](https://img.shields.io/badge/Email-say_hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katha.pawale@unisonglobus.com)
 [![ZIU AI](https://img.shields.io/badge/ZIU_AI-what_I'm_building-3b6bff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ziuai)
 ![Profile views](https://komarev.com/ghpvc/?username=KathaZIUai&style=for-the-badge&color=6fe3ff&label=PROFILE+VIEWS)
 

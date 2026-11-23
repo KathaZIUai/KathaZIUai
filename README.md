@@ -103,6 +103,7 @@ timeline
 
 | | Project | What it does | Stack |
 |---|---|---|---|
+| ⏱️ | **ZIUAI Tracker** | Privacy-first team activity tracker used inside ZIU AI: live team status, day reports with CSV/PDF export, alerts and a founder dashboard. Ships with a Mac desktop app and a browser extension; employees see everything that is collected. Private repo. | React, Flask, PostgreSQL, Redis, Docker, Cloudflare Tunnel |
 | 🧾 | **GST Reconciliation** | Reconciles GSTR-2B against the purchase register, flags mismatches and produces a vendor-wise action list every month. Live. | LLM + rules, spreadsheets, accounting exports |
 | 📄 | **5471 Form** | Prepares IRS Form 5471 for foreign-corporation filings: schedule mapping, ownership tracking, validation before export. | LLM document pipeline |
 | 🎯 | [**Lead Mining**](https://github.com/ziuai/candidate-mine) | Builds a qualified lead pipeline from public company data: enrich, score, route to the right owner. | AI agent, CRM APIs |
